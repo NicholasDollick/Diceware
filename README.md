@@ -16,8 +16,6 @@ options:
 -l --length           - length of generated password (Default: 5)
 -s --secure           - inserts a random character for extra entropy
 
-
-
 Examples: 
 python3 diceware.py 
 python3 diceware.py -l 8
