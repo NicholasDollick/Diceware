@@ -20,4 +20,9 @@ Examples:
 python3 diceware.py 
 python3 diceware.py -l 8
 python3 diceware.py -l 6 -s
+
+Output:
+tu pam sob ke umbra 
+harem lazy moore elsie vivian ogre goal bony 
+sal sixty ship force tend uk rite si;x 
 ```
